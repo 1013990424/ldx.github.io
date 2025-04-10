@@ -148,4 +148,4 @@ languages:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lidong Xie received the B.S. degree in Computer Science from South China Normal University, Guangzhou, China, in 2021, and the M.S. degree from the School of Artiffcial Intelligence, Beijing Normal University, Bei-jing, China, in 2024. He is currently a Ph.D. student in the School of Computer Science, Beihang Univer-sity, Beijing, China. His research interests include deep learning, computer vision and image processing.
