@@ -1,8 +1,9 @@
 ---
-title: "An example journal article"
+title: "Learning multi-color curve for image harmonization"
 authors:
-- admin
-- Robert Ford
+- jingrong yuan
+- Hao Wu
+- Lidong Xie
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
