@@ -3,7 +3,7 @@ title: "Learning multi-color curve for image harmonization"
 authors:
 - jingrong yuan
 - Hao Wu
-- Lidong Xie
+- **Lidong Xie**
 - Lei Zhang
 - Jichen xing
 author_notes:
