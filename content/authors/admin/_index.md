@@ -35,18 +35,18 @@ interests:
   - Low-level Visual Enhancement
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Computer Science
+    institution: Beihang University
+    date_start: 2024-09-01
+    date_end: Now
+  - area: MS Artificial Intelligence
+    institution: Beijing Normal University
+    date_start: 2021-09-01
+    date_end: 2024-06-31
+  - area: BSc Computer Science
+    institution: South China Normal University
+    date_start: 2017-09-01
+    date_end: 2021-06-31
 
 # work:
 #   - position: Director of Cloud Infrastructure
@@ -108,7 +108,7 @@ education:
 
 languages:
   - name: English
-    percent: 100
+    percent: 80
   - name: Chinese
     percent: 100
   - name: Portuguese
