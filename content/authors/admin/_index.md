@@ -38,7 +38,7 @@ education:
   - area: PhD Computer Science
     institution: Beihang University
     date_start: 2024-09-01
-    date_end: Now
+    date_end: 2028-06-31
   - area: MS Artificial Intelligence
     institution: Beijing Normal University
     date_start: 2021-09-01
