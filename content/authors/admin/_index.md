@@ -38,15 +38,15 @@ education:
   - area: PhD Computer Science
     institution: Beihang University
     date_start: 2024-09-01
-    date_end: 2028-06-31
+    date_end: 2028-06-30
   - area: MS Artificial Intelligence
     institution: Beijing Normal University
     date_start: 2021-09-01
-    date_end: 2024-06-31
+    date_end: 2024-06-30
   - area: BSc Computer Science
     institution: South China Normal University
     date_start: 2017-09-01
-    date_end: 2021-06-31
+    date_end: 2021-06-30
 
 # work:
 #   - position: Director of Cloud Infrastructure
